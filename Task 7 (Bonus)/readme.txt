@@ -2,7 +2,7 @@
 
 #Link to unlisted youtube video presentation: https://youtu.be/NU9pY9OQtr8
 
-#Slide for the presentation: https://docs.google.com/presentation/d/1OnLTTHVUwzlXufWWvhhAh8ZvRJbiHCEF-C2vLGnDZmQ/edit#slide=id.g54dda1946d_6_322
+#Slide for the presentation: https://docs.google.com/presentation/d/1OnLTTHVUwzlXufWWvhhAh8ZvRJbiHCEF-C2vLGnDZmQ/edit?usp=sharing
 
 #Project Title: Sentiment Analysis of Product Reviews using LSTM Neural Networks
 
